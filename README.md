@@ -10,7 +10,7 @@ Before you begin, ensure you have the following:
 - **Java Development Kit (JDK)**: Version 8 or above
 - **Apache Maven**: Version 3.6.3 or above
 
-I attached the complete pdf, which is also the same file that I had submitted as an assignment for my college earlier this year. It illustrates everything in detail
+I have attached the complete pdf, which is also the same file that I had submitted as an assignment for my college earlier this year. It illustrates everything in detail
 
 Hope you find it helpful!
 
